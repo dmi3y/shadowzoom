@@ -1,0 +1,1 @@
+Core Joomla! plugin which allows create zoom images for core content
